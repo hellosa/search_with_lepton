@@ -30,6 +30,7 @@ BING_SEARCH_V7_ENDPOINT = "https://api.bing.microsoft.com/v7.0/search"
 BING_MKT = "en-US"
 GOOGLE_SEARCH_ENDPOINT = "https://customsearch.googleapis.com/customsearch/v1"
 SERPER_SEARCH_ENDPOINT = "https://google.serper.dev/search"
+GOOGLE_SEARCH_API_KEY= "AIzaSyDWVjz6I1_Ha0HFiGhTEjOnzhQZ-ZPb0Vc"
 
 # Specify the number of references from the search engine you want to use.
 # 8 is usually a good number.
